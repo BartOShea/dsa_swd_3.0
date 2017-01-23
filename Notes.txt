@@ -1,1 +1,39 @@
-Hello World
+<!DOCTYPE html> <!--Declarion that HTML5 is being used--><!-- -->
+<html lang="en"><!--Language is English -->
+  <head><!--Head of HTML that holds the meta data, title, links and stylesheets -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1"> <!--support on mobile devices -->
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    
+    <title>Jumbotron Template for Bootstrap</title> <!--Jumbotron tag the comprises of the section just below the navbar -->
+
+    <!-- Bootstrap core CSS -->
+    
+
+  </head>
+  <style>
+    
+    
+
+  
+  </style>
+  <body>
+
+    
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    
+    <script type="text/javascript">
+  console.log("Hello World");
+    };
+  };
+   //f
+    </script>
+        
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+  
+  </body>
+</html>
